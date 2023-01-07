@@ -1,0 +1,1 @@
+This is a simple web app built in go for the geomatics and spatial data science lab at the University of Florence.
